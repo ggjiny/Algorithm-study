@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -18,4 +18,4 @@ int main(void) {
 	for (int i = 0; i < n; i++) {
 		cout << cd[i].first <<" "<< cd[i].second << "\n";
 	}
-}*/
+}
